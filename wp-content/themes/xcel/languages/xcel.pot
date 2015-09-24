@@ -1,0 +1,544 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xcel\n"
+"POT-Creation-Date: 2015-04-14 20:00+0200\n"
+"PO-Revision-Date: 2015-04-14 20:02+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.5\n"
+"X-Poedit-Basepath: ../\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: comments.php:35 comments.php:52
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:36 comments.php:53
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:37 comments.php:54
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:64
+msgid "Comments are closed."
+msgstr ""
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#: content-none.php:19
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: content-none.php:34
+msgid "Search Again"
+msgstr ""
+
+#: content-page.php:15 content-single.php:19 content.php:61
+msgid "Pages:"
+msgstr ""
+
+#: content-page.php:22 includes/inc/template-tags.php:126
+msgid "Edit"
+msgstr ""
+
+#: content.php:54
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: customizer/customizer-library/custom-controls/upsell.php:27
+msgid "Buy Xcel Premium"
+msgstr ""
+
+#: customizer/customizer-library/custom-controls/upsell.php:28
+msgid "See the <a href=\""
+msgstr ""
+
+#: customizer/customizer-library/extensions/fonts.php:115
+msgid "All"
+msgstr ""
+
+#: customizer/customizer-library/extensions/fonts.php:116
+msgid "Cyrillic"
+msgstr ""
+
+#: customizer/customizer-library/extensions/fonts.php:117
+msgid "Cyrillic Extended"
+msgstr ""
+
+#: customizer/customizer-library/extensions/fonts.php:118
+msgid "Devanagari"
+msgstr ""
+
+#: customizer/customizer-library/extensions/fonts.php:119
+msgid "Greek"
+msgstr ""
+
+#: customizer/customizer-library/extensions/fonts.php:120
+msgid "Greek Extended"
+msgstr ""
+
+#: customizer/customizer-library/extensions/fonts.php:121
+msgid "Khmer"
+msgstr ""
+
+#: customizer/customizer-library/extensions/fonts.php:122
+msgid "Latin"
+msgstr ""
+
+#: customizer/customizer-library/extensions/fonts.php:123
+msgid "Latin Extended"
+msgstr ""
+
+#: customizer/customizer-library/extensions/fonts.php:124
+msgid "Vietnamese"
+msgstr ""
+
+#: customizer/customizer-options.php:54
+msgid "Site Options"
+msgstr ""
+
+#: customizer/customizer-options.php:61
+msgid "Full Width / Boxed Layout"
+msgstr ""
+
+#: customizer/customizer-options.php:68
+msgid "Main Color"
+msgstr ""
+
+#: customizer/customizer-options.php:75
+msgid "Secondary Color"
+msgstr ""
+
+#: customizer/customizer-options.php:83
+msgid "Body Font"
+msgstr ""
+
+#: customizer/customizer-options.php:91
+msgid "Body Font Color"
+msgstr ""
+
+#: customizer/customizer-options.php:98
+msgid "Headings Font"
+msgstr ""
+
+#: customizer/customizer-options.php:106
+msgid "Heading Font Color"
+msgstr ""
+
+#: customizer/customizer-options.php:118
+msgid "Header Options"
+msgstr ""
+
+#: customizer/customizer-options.php:125
+msgid "Header Standard / Right Layout"
+msgstr ""
+
+#: customizer/customizer-options.php:132
+msgid "Show Search"
+msgstr ""
+
+#: customizer/customizer-options.php:135
+msgid "Enable a search box on your site"
+msgstr ""
+
+#: customizer/customizer-options.php:147
+msgid "Header Color"
+msgstr ""
+
+#: customizer/customizer-options.php:160
+msgid "Page Title Options"
+msgstr ""
+
+#: customizer/customizer-options.php:167
+msgid "Extra Title Bar Settings"
+msgstr ""
+
+#: customizer/customizer-options.php:174
+msgid "Title Bar Color"
+msgstr ""
+
+#: customizer/customizer-options.php:181
+msgid "Title Bar Font Color"
+msgstr ""
+
+#: customizer/customizer-options.php:194
+msgid "Background Image Position"
+msgstr ""
+
+#: customizer/customizer-options.php:197
+msgid ""
+"To set the image for the post/page you need to set a \"Featured Image\" on "
+"each post/page."
+msgstr ""
+
+#: customizer/customizer-options.php:208
+msgid "Homepage Slider Options"
+msgstr ""
+
+#: customizer/customizer-options.php:219
+msgid "Choose a Slider"
+msgstr ""
+
+#: customizer/customizer-options.php:227
+msgid "Slider Categories"
+msgstr ""
+
+#: customizer/customizer-options.php:230
+msgid ""
+"Enter the ID's of the post categories you want to display in the slider. Eg: "
+"\"13,17,19\" (no spaces and only comma's)"
+msgstr ""
+
+#: customizer/customizer-options.php:241
+msgid "Extra Slider Settings"
+msgstr ""
+
+#: customizer/customizer-options.php:248
+msgid "Slider Shortcode"
+msgstr ""
+
+#: customizer/customizer-options.php:251
+msgid "Enter the shortcode give by meta slider."
+msgstr ""
+
+#: customizer/customizer-options.php:260
+msgid "Blog Options"
+msgstr ""
+
+#: customizer/customizer-options.php:266
+msgid "Blog Page Title"
+msgstr ""
+
+#: customizer/customizer-options.php:273
+msgid "Exclude Blog Categories"
+msgstr ""
+
+#: customizer/customizer-options.php:276
+msgid ""
+"Enter the ID's of the post categories you'd like to EXCLUDE from the Blog, "
+"enter only the ID's with a minus sign (-) before them, separated by a comma "
+"(,)<br />Eg: \"-13, -17, -19\"<br />If you enter the ID's without the minus "
+"then it'll show ONLY posts in those categories."
+msgstr ""
+
+#: customizer/customizer-options.php:281
+msgid "Extra Blog Settings"
+msgstr ""
+
+#: customizer/customizer-options.php:292
+msgid "Footer Layout Options"
+msgstr ""
+
+#: customizer/customizer-options.php:299
+msgid "Select from 5 footer layouts"
+msgstr ""
+
+#: customizer/customizer-options.php:309
+msgid "Footer Layout"
+msgstr ""
+
+#: customizer/customizer-options.php:319
+msgid "Remove Footer Bottom Bar"
+msgstr ""
+
+#: customizer/customizer-options.php:330 upgrade/kaira-upgrade-page.php:53
+msgid "Social Links"
+msgstr ""
+
+#: customizer/customizer-options.php:337
+msgid "Add Social Links"
+msgstr ""
+
+#: customizer/customizer-options.php:348
+msgid "Website Text"
+msgstr ""
+
+#: customizer/customizer-options.php:355
+msgid "Edit Footer Copyright Text"
+msgstr ""
+
+#: customizer/customizer-options.php:361
+msgid "404 Error Page Heading"
+msgstr ""
+
+#: customizer/customizer-options.php:364
+msgid "Oops! <span>404</span>"
+msgstr ""
+
+#: customizer/customizer-options.php:365
+msgid "Enter the heading for the 404 Error page"
+msgstr ""
+
+#: customizer/customizer-options.php:369
+msgid "Error 404 Message"
+msgstr ""
+
+#: customizer/customizer-options.php:372
+msgid ""
+"It looks like that page does not exist. <br />Return home or try a search"
+msgstr ""
+
+#: customizer/customizer-options.php:373
+msgid "Enter the default text on the 404 error page (Page not found)"
+msgstr ""
+
+#: customizer/customizer-options.php:377
+msgid "No Search Results"
+msgstr ""
+
+#: customizer/customizer-options.php:380
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: customizer/customizer-options.php:381
+msgid "Enter the default text for when no search results are found"
+msgstr ""
+
+#: functions.php:56 templates/headers/header-one.php:20
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:57
+msgid "Footer Bar Menu"
+msgstr ""
+
+#: functions.php:104
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:115
+msgid "Xcel Footer Standard"
+msgstr ""
+
+#: functions.php:117
+msgid "The footer will divide into however many widgets are placed here."
+msgstr ""
+
+#: functions.php:217
+#, php-format
+msgid ""
+"<p>Install the plugins we at <a href=\"http://www.kairaweb.com/\" target="
+"\"_blank\">Kaira</a> recommended | <a href=\"%1$s\">Hide Notice</a></p>"
+msgstr ""
+
+#: functions.php:218
+msgid "WooCommerce"
+msgstr ""
+
+#: functions.php:219
+msgid "SiteOrigin's Page Builder"
+msgstr ""
+
+#: functions.php:220
+msgid "Meta Slider"
+msgstr ""
+
+#: functions.php:221
+msgid "Breadcrumb NavXT"
+msgstr ""
+
+#: functions.php:294
+msgid "XCEL PRO Features"
+msgstr ""
+
+#: includes/inc/extras.php:52
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: includes/inc/template-tags.php:23
+msgid "Posts navigation"
+msgstr ""
+
+#: includes/inc/template-tags.php:27
+msgid "Older posts"
+msgstr ""
+
+#: includes/inc/template-tags.php:31
+msgid "Newer posts"
+msgstr ""
+
+#: includes/inc/template-tags.php:56
+msgid "Post navigation"
+msgstr ""
+
+#: includes/inc/template-tags.php:108 includes/inc/template-tags.php:114
+msgid ", "
+msgstr ""
+
+#: includes/inc/template-tags.php:110
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: includes/inc/template-tags.php:116
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: includes/inc/template-tags.php:122
+msgid "Leave a comment"
+msgstr ""
+
+#: includes/inc/template-tags.php:122
+msgid "1 Comment"
+msgstr ""
+
+#: includes/inc/template-tags.php:122
+msgid "% Comments"
+msgstr ""
+
+#: includes/inc/template-tags.php:143
+#, php-format
+msgid "Category: %s"
+msgstr ""
+
+#: includes/inc/template-tags.php:145
+#, php-format
+msgid "Tag: %s"
+msgstr ""
+
+#: includes/inc/template-tags.php:147
+#, php-format
+msgid "Author: %s"
+msgstr ""
+
+#: includes/inc/template-tags.php:149
+#, php-format
+msgid "Year: %s"
+msgstr ""
+
+#: includes/inc/template-tags.php:151
+#, php-format
+msgid "Month: %s"
+msgstr ""
+
+#: includes/inc/template-tags.php:153
+#, php-format
+msgid "Day: %s"
+msgstr ""
+
+#: includes/inc/template-tags.php:175
+#, php-format
+msgid "Archives: %s"
+msgstr ""
+
+#: includes/inc/template-tags.php:179
+#, php-format
+msgid "%1$s: %2$s"
+msgstr ""
+
+#: includes/inc/template-tags.php:181
+msgid "Archives"
+msgstr ""
+
+#: includes/inc/woocommerce-inc.php:9 templates/headers/header-one.php:27
+msgid "View your shopping cart"
+msgstr ""
+
+#: search.php:18
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: templates/footers/footer-none.php:3
+#, php-format
+msgid ""
+"<div class=\"site-footer-bottom-bar\"><div class=\"site-container\"><div "
+"class=\"site-footer-bottom-bar-left\">Theme: %1$s by %2$s"
+msgstr ""
+
+#: templates/footers/footer-standard.php:10
+#, php-format
+msgid ""
+"</div></div><div class=\"site-footer-bottom-bar\"><div class=\"site-container"
+"\"><div class=\"site-footer-bottom-bar-left\">Theme: %1$s by %2$s"
+msgstr ""
+
+#: templates/slider/homepage-slider.php:85
+msgid "Build an Empire"
+msgstr ""
+
+#: templates/slider/homepage-slider.php:87
+msgid ""
+"The plan is to build an empire of powerful and useful themes for everyone to "
+"use"
+msgstr ""
+
+#: templates/slider/homepage-slider.php:102
+msgid "But keep life simple"
+msgstr ""
+
+#: templates/slider/homepage-slider.php:104
+msgid ""
+"and to keep life simple for the user and for me... Sticking with the motto "
+"of \"keep it simple\" I plan to make it all easy and enjoy-able for you too."
+msgstr ""
+
+#: templates/titlebar.php:13
+msgid "Blog"
+msgstr ""
+
+#: upgrade/kaira-upgrade-page.php:11
+msgid ""
+"<a href=\"http://www.kairaweb.com/\" target=\"_blank\">Visit our website</a> "
+"to view our other Themes and Plugins"
+msgstr ""
+
+#: upgrade/kaira-upgrade-page.php:17
+msgid "Site Layout"
+msgstr ""
+
+#: upgrade/kaira-upgrade-page.php:24
+msgid ""
+"<a href=\"http://app.sellwire.net/p/K3\" target=\"_blank\">Upgrade to "
+"premium</a> to enable the option to select between the website being full "
+"width or boxed layout."
+msgstr ""
+
+#: upgrade/kaira-upgrade-page.php:29
+msgid "Header Layout"
+msgstr ""
+
+#: upgrade/kaira-upgrade-page.php:36
+msgid ""
+"Enable the option to select between two different header layouts, standard "
+"or centered layout."
+msgstr ""
+
+#: upgrade/kaira-upgrade-page.php:41
+msgid "Blog Posts Layout"
+msgstr ""
+
+#: upgrade/kaira-upgrade-page.php:48
+msgid ""
+"Enable the option to select between two different blog layouts, side layout "
+"or top layout."
+msgstr ""
+
+#: upgrade/kaira-upgrade-page.php:59
+msgid "Enable social links on the theme to link to all your social profiles."
+msgstr ""
+
+#: upgrade/kaira-upgrade-page.php:64
+msgid "Website copy text"
+msgstr ""
+
+#: upgrade/kaira-upgrade-page.php:70
+msgid "Change the website copy to link out to your own website."
+msgstr ""
