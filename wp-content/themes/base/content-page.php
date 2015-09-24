@@ -23,7 +23,7 @@
 			<li><a href="<?php _e('http://google.com', 'base'); ?>"><?php _e('This is the second list item', 'base'); ?></a></li>
 			<li><a href="<?php _e('http://google.com', 'base'); ?>"><?php _e('This is the third list item', 'base'); ?></a></li>
 			<li><a href="<?php _e('http://google.com', 'base'); ?>"><?php _e('Andreas pryl', 'base'); ?></a></li>
-			<li><a href="<?php _e('http://google.com', 'base'); ?>"><?php _e('Peter ändrade lista', 'base'); ?></a></li>
+			<li><a href="<?php _e('http://google.com', 'base'); ?>"><?php _e('Peter ändrade lista igen', 'base'); ?></a></li>
 			<li><a href="<?php _e('http://google.com', 'base'); ?>"><?php _e('A newly added string', 'base'); ?></a></li>
 			<li><a href="<?php _e('http://google.com', 'base'); ?>"><?php _e('This is the fourth list item', 'base'); ?></a></li>
 		</ul>
